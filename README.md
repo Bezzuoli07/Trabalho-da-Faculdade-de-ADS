@@ -10,7 +10,4 @@ Sistema criado para gerenciar informações de uma clínica, como cadastro de pa
 - Programação Orientada a Objetos
 
 ## 🎓 Autor
-Eduardo
-
-## 📅 Ano
-2025
+Eduardo Barbosa Bezzuoli
